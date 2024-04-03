@@ -28,8 +28,7 @@ The CRM system implements two key AI models:
 - Natural Language Processing (NLP) Libraries (e.g., NLTK, spaCy): For text processing and sentiment analysis.
 - GitHub: Version control system for collaboration and code management.
 
-## Usage
-To utilize the CRM system, follow these steps:
+## STEPS FOLLOWED
 
 1. **Data Collection**: We are using kaggle dataset for customer reviews.
 2. **Data Preprocessing**: Clean and preprocess the data to prepare it for analysis, including handling missing values, feature engineering, and data transformation.
